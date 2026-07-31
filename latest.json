@@ -1,5 +1,6 @@
 {
-  "version": "1.67.0",
-  "url": "",
-  "notes": ""
+  "version": "1.83.0",
+  "url": "https://github.com/SamSDK/desker/releases/download/v1.83.0/DeskerSetup-1.83.0.exe",
+  "notes": "Quick launcher (Ctrl-bindable hotkey + Top Bar trigger) and Top Bar pinned apps with a searchable installed-apps picker. See https://github.com/SamSDK/desker/releases/tag/v1.83.0 for details.",
+  "sha256": "a9d1d0363e996098af6497767534296a6283f8f3552a69e05607b2a8099f608d"
 }
